@@ -1,0 +1,23 @@
+{
+  "name": "password-strength",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curso-serverless-lambda-APIGateway/password-strength.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curso-serverless-lambda-APIGateway/password-strength/issues"
+  },
+  "homepage": "https://github.com/curso-serverless-lambda-APIGateway/password-strength#readme",
+  "dependencies": {
+    "zxcvbn": "^4.4.2"
+  }
+}
